@@ -4,7 +4,6 @@ Matherials for Linguistic Characteristics of Solidity &amp; Klaytn Network Block
 
 
 ## 소개
----
 본 자료는 **2019 한국전자통신연구원 하계 연구연수생으로서 '블록체인 기반의 웹 콘텐츠 생성 및 유통 플랫폼 기술 개발'** 에 참여하며 조사한 내용입니다. 블록체인을 공부하시는 분들과 정리한 내용을 공유하고자 업로드합니다. 
 (본 자료 공개 허용 여부는 해당 과제 책임자로 허락받았습니다.)
  
@@ -24,14 +23,12 @@ Matherials for Linguistic Characteristics of Solidity &amp; Klaytn Network Block
 <br>
 
 ## 작성자
----
 - 충북대학교 소프트웨어학과 김승수
 - nablekim94@gmail.com
 
 <br>
 
 ## 참여 정보
----
 ### 과제명
 - 블록체인 기반의 웹 콘텐츠 생성 및 유통 플랫폼 기술 개발 (문화체육관광부 정책지정과제)
 
