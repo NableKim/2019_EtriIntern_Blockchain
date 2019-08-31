@@ -152,12 +152,12 @@ ex) 여러 병원 나뉘어 있는 환자의 의료 기록을 안전하게 공�
 
 
 
-### UTXO
+## UTXO
 - 비트코인 블록체인에서 구현한 송금 시스템의 자료구조
 
 
 
-### ICO(Initial Coin Offering)
+## ICO(Initial Coin Offering)
 - Dapp이 토큰을 만들어서 이를 공개적으로 판매하는 것
 - 새로운 기업이 상장되어 주식이 공개적으로 유통되는 IPO(Initial Public Offering)에 빗대어 만들어진 말
 - 실체가 없는 상태에서 계획만 가지고 토큰을 판매하기 때문에 크라우드 펀딩에 더 가까움
