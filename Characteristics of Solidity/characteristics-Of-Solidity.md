@@ -1,4 +1,3 @@
-<title>범용 언어와 다르게 Solidity가 가진 특징</title>
 <h1>범용 언어와 다르게 Solidity가 가진 특징</h1>
 
 2019 한국전자통신연구원
@@ -9,14 +8,12 @@ nablekim94@gmail.com
 <br><br><br><br>
 
 >## Introduction
----
 
 Solidity는 Smart Contract를 작성하는 언어로 본 글에서는 Solidity가 만들어지게 된 배경을 시작으로 기존 범용 언어와 다르게 갖고 있는 특징들을 설명하고자 한다. 눈에 띄는 특징들을 열거 및 설명하고 Solidity가 지원하지 않거나 지원하려고 노력하는 사항에 대해 언급한다.
 
 <br><br><br>
 
 >## Why do we need Solidity!?
----
 
 ***왜 Smart Contract를 기존 언어로 개발할 생각을 안하고 Solidity라는 새로운 언어를 만들어야했을까?***
 
@@ -32,7 +29,6 @@ Solidity는 Smart Contract를 작성하는 언어로 본 글에서는 Solidity�
 <br><br><br>
 
 >## Characteristics of Solidity Language
----
 [TOC]
 <br>
 
