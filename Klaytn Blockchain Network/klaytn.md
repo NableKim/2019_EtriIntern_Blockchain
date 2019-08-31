@@ -1,5 +1,3 @@
-<title>Klaytn</title>
-
 # Klaytn
 
 2019 한국전자통신연구원
@@ -12,7 +10,6 @@ nablekim94@gmail.com
 
 
 ## Introduction
----
 
 ### Klaytn이란
 - 카카오 자회사인 그라운드 X가 개발한 블록체인 플랫폼
@@ -47,10 +44,9 @@ https://www.reddit.com/r/klaytn/
 
 
 ## 기존 블록체인 플랫폼의 문제점
----
 
 ### 1. Scalability
-- 비트코인과 이더리움이 갖는 대표적인 문제로 TPS와 Block Interval을 가지고 이야기 함
+- 비트코인과 이더리움이 갖는 대표적인 문제로 TPS와 Block Interval을 가지고 이야기 함ㄹ
 
 
 #### TPS란?
@@ -133,7 +129,6 @@ ex) 51%이상의 컴퓨팅 자원을 갖는 노드가 악의적으로 자기한�
 
 
 ## Klaytn 이해하기
----
 
 ### 1. Klaytn 네트워크 구조
 
@@ -364,7 +359,6 @@ ex) 51%이상의 컴퓨팅 자원을 갖는 노드가 악의적으로 자기한�
 
 
 ##  이더리움과 Klaytn의 차이
----
 - 이더리움은 단일 네트워크로 모든 노드가 블록을 생성할 수 있음. 반면에, Klaytn은 Core Cell Network와 Endpoint Network라는 두 가지 layer의 네트워크로 구성되어 있으며 Core Cell을 이루는 합의 노드들이 블록 생성을 담당함.
 - 클레이튼 기반 BApp의 서버는 Core Cell 옆에 있는 Endpoint Node와 연결하여 블록체인과 소통할 수 있음
 - Klaytn는 메인넷과 부분적 연결된 서비스 체인을 구성할 수 있음
@@ -392,7 +386,6 @@ ex) 51%이상의 컴퓨팅 자원을 갖는 노드가 악의적으로 자기한�
 
 
 ## Klaytn Tools
----
 ### 1. Klaytn Wallet
 - Klaytn 위에서 생성된 토큰들의 안전한 보관, 전송을 지원하는 지갑
 - Klay 및 Klay 호환 토큰의 잔액 확인 가능
