@@ -1,6 +1,4 @@
-<title>솔리디티로 작성한 스마트 컨트랙트가 갖는 취약점</title>
-
-#스마트 컨트랙트가 갖는 취약점
+# 스마트 컨트랙트가 갖는 취약점
 
 2019 한국전자통신연구원
 하계연수생 김승수
@@ -12,6 +10,8 @@ nablekim94@gmail.com
 ># Introduction
 
  본 글은 영국 보안컨설팅 업체 NCC Group가 스마트 컨트랙트 취약점을 조사하기 위해 진행한 **'DASP(Decentralized Application Security Project)'** 의 내용을 다룬다. 자세한 사항은 학습 사이트 Link에 첨부된 dasp 공식홈페이지를 참고하자.
+
+<br><br>
 
 ># Index
 
