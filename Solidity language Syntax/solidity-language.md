@@ -15,18 +15,18 @@ nablekim94@gmail.com
 
 
 ## Solidity Syntax
-[1. Solidity Source File](./solidity-source-file.html)
+[1. Solidity Source File](./solidity-source-file.md)
 
-[2. Structure of a Contract](./structure-of-A-contract.html)
+[2. Structure of a Contract](./structure-of-A-contract.md)
 
-[3. Data Type](./type.html)
+[3. Data Type](./type.md)
 
-[4. Global Variables and Function](./global-variable-and-function.html)
+[4. Global Variables and Function](./global-variable-and-function.md)
 
-[5. Expression and Control Logic](./expression-and-control-logic.html)
+[5. Expression and Control Logic](./expression-and-control-logic.md)
 
-[6. Object Oriented Characteristic of Solidity](./object-oriented-characteristic-of-solidity.html)
+[6. Object Oriented Characteristic of Solidity](./object-oriented-characteristic-of-solidity.md)
 
-[7. Modifier and Fallback function](./modifier-and-fallback.html)
+[7. Modifier and Fallback function](./modifier-and-fallback.md)
 
-[8. Exception, Event and Logging](./exception-event-and-logging.html)
+[8. Exception, Event and Logging](./exception-event-and-logging.md)
